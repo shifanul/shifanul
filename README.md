@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello
 - 💾 Front-End Developer
 - 🎷  I’m currently learning Javascript
 - ✨   How to reach me: ShifanulC@live.com
