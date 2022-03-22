@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello
+- 💾 Front-End Developer
+- 🎷  I’m currently learning Javascript
+- ✨   How to reach me: ShifanulC@live.com
+- ❄️    Knowledgeable in: UI/UX Design
+- 🔋      Note: I'm a big nerd, and I love being one!
