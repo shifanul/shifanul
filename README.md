@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 💾 Front-End Developer
-- 🎷  I’m currently learning Javascript
+- 🌱  I’m currently learning Javascript
 - ✨   How to reach me: ShifanulC@live.com
 - ❄️    Knowledgeable in: UI/UX Design
-- 🔋      Note: I'm a big nerd, and I love being one!
+- ⚡      Note: I'm a big nerd, and I love being one!
