@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💾 Front-End Developer
+- 💾 Full-Stack Developer
 - 🌱  I’m currently learning Java!
 - ✨   How to reach me: ShifanulC@live.com
 - ❄️    Knowledgeable in: UI/UX Design
