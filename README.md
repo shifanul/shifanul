@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💾 Full-Stack Developer
-- 🌱  I’m currently learning Java!
+- 💾 Full-Stack Developer (Main Stack: M.E.R.N. STACK)(Currently using: Vue.js, ASP.NET, Azure and M.E.R.N)
+- 🌱  I’m currently learning C#!
 - ✨   How to reach me: ShifanulC@live.com
 - ❄️    Knowledgeable in: UI/UX Design
-- ⚡      Note: I'm a big nerd, and I love being one!
+- ⚡      Note: I'm a big nerd, and I love D&D!
